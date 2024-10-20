@@ -1,0 +1,9 @@
+*.pyc
+*.db
+*.json
+.env
+
+tmp/
+cache/
+data/
+.venv/
