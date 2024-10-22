@@ -1,0 +1,5 @@
+aiogram==3.13.1
+cohere==5.11.1
+ipdb==0.13.13
+ipython==8.28.0
+python-dotenv==1.0.1
